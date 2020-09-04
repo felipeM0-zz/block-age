@@ -1,10 +1,8 @@
-#<b> - PROJETO APP ANDROID - ANOTAÇÕES E TAREFAS PERSONALIZADAS </b>
+## <b> PROJETO APP ANDROID - ANOTAÇÕES E TAREFAS PERSONALIZADAS </b>
 
-<p align="center"> SCREENS: </p>
+<b> <p align="center"> SCREENS </p> </b>
 
----
-
-##<b>LISTA DE ANOTAÇÕES:</b> <br />
+### <b>LISTA DE ANOTAÇÕES:</b> <br />
 ● ENCONTRAM-SE TODAS AS SUAS ANOTAÇÕES <br />
 ● QUANTIDADES DE CARACTERES NAQUELA ANOTAÇÃO ESPECÍFICA <br />
 ● DATA/HORA DA ÚLTIMA MODIFICAÇÃO <br />
@@ -12,7 +10,7 @@
 
 ---
 
-##<b> LISTA DE TAREFAS: </b> <br />
+### <b> LISTA DE TAREFAS: </b> <br />
 ● ENCONTRAM-SE TODAS AS SUAS TAREFAS <br />
 ● QUANTIDADE DE TAREFAS NAQUELA LISTA DE TAREFA ESPECÍFICA <br />
 ● DATA/HORA DA ÚLTIMA MODIFICAÇÃO <br />
@@ -20,7 +18,7 @@
 
 ---
 
-##<b> CRIAÇÃO DE ANOTAÇÕES: </b> <br />
+### <b> CRIAÇÃO DE ANOTAÇÕES: </b> <br />
 ● INFORMADO EM TEMPO REAL A DATA/HORA DA ÚLTIMA MODIFICAÇÃO <br />
 ● INFORMADO EM TEMPO REAL A QUANTIDADE DE CARACTERES <br />
 
@@ -34,7 +32,7 @@
 
 ---
 
-##<b> CRIAÇÃO DE TAREFAS: </b> <br />
+### <b> CRIAÇÃO DE TAREFAS: </b> <br />
 ● POSSIBILIDADE DE INSERÇÃO DO TÍTULO PARA MELHOR SABER DE QUAL LISTA DE TAREFAS SE TRATA <br />
 
 <b> - OPÇÕES: </b> <br />
@@ -51,7 +49,7 @@
 
 ---
 
-##<b> TELA DE CONFIGURAÇÕES: </b> <br />
+<b> <p align="center"> CONFIGURAÇÕES </p> </b>
 
 <b> CONFIGURAÇÕES VISÍVEIS: </b> <br />
 
@@ -64,7 +62,7 @@
 
 <b> CONFIGURAÇÕES INVISÍVEIS: ● TROCA AUTOMÁTICA DE IDIOMAS </b> <br />
 
-<b> - DISPONÍVEIS: </b> <br />
+<b> <p align="center"> DISPONÍVEIS </p> </b>
 
 <b> --- INGLÊS --- </b> <br />
 
