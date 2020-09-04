@@ -1,0 +1,93 @@
+import {StyleSheet} from 'react-native';
+
+export default StyleSheet.create({
+  animLottie: {
+    width: 350,
+    height: 350,
+    paddingLeft: 5,
+  },
+  vwLottie: (cor) => ({
+    flex: 1,
+    backgroundColor: cor,
+    justifyContent: 'center',
+    alignItems: 'center',
+  }),
+  btnClose: {
+    height: 30,
+    width: 30,
+    backgroundColor: 'rgba(51,51,51,0.05)',
+    justifyContent: 'center',
+    alignItems: 'center',
+    borderRadius: 30,
+    position: 'absolute',
+    right: 15,
+    top: 15,
+  },
+  BodyIconSelect: {
+    width: 19,
+    height: 19,
+    backgroundColor: '#212121',
+    position: 'absolute',
+    right: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+    borderRadius: 20,
+    elevation: 5,
+  },
+  modalBody:  {
+    flex: 1,
+    backgroundColor: 'transparent',
+    width: '100%',
+    justifyContent: 'flex-end',
+  },
+  ButtonColor: (cor) => ({
+    backgroundColor: cor,
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    borderWidth: 4,
+    borderColor: '#212121',
+  }),
+  vwBtnSelect: {
+    paddingTop: 3,
+    paddingRight: 3,
+  },
+  modal: {
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(51,51,51,0.2)'
+  },
+  vwBoxColor: {
+    height: 75,
+    width: '90%',
+    margin: 3,
+    justifyContent: 'space-around',
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  lastBox: {
+    width: '100%',
+    alignItems: 'center',
+    backgroundColor: '#FFFFFF',
+    borderTopRightRadius: 35,
+    borderTopLeftRadius: 35,
+    paddingBottom: 15,
+    // borderTopWidth: 2,
+    elevation: 5,
+    // borderColor: 'rgba(51,51,51,0.1)',
+  },
+  vwLabelCor: {
+    alignItems: 'center',
+    height: 40,
+    justifyContent: 'center',
+  },
+  txtCorFundo: {
+    fontSize: 25,
+    fontWeight: 'bold',
+    color: '#212121',
+    marginTop: 20,
+    marginBottom: 5,
+  },
+});
