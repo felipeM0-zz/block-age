@@ -453,6 +453,7 @@ const TaskCreate = (props) => {
                 swipeGestureEnded={() => setScroll(true)}
                 directionalDistanceChangeThreshold={0}
                 initialNumToRender={20}
+                maxToRenderPerBatch={2}
                 tension={50}
                 style={styles.swipeList}
                 data={items}
