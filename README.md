@@ -1,4 +1,6 @@
-<b> <p align="center"> PROJETO APP ANDROID - ANOTAÇÕES E TAREFAS PERSONALIZADAS </p> </b>
+<b> <p align="center"> PROJETO APP ANDROID - ANOTAÇÕES E TAREFAS PERSONALIZADAS </p> </b> </br>
+
+&#x27A1; Já disponível na Google Play: <a href="https://play.google.com/store/apps/details?id=com.blockage">Block Age</a> </br>
 
 <b> <p align="center"> SCREENS </p> </b>
 
